@@ -9,8 +9,6 @@ const generateResult = () => {
 
   const checkedAnswers = Array.from(document.querySelectorAll(':checked'));
 
-  console.log('fullyAnswered', checkedAnswers.length === questionsJson.length);
-
   for (const checkedAnswer of checkedAnswers) {
     const index = checkedAnswer.parentElement.parentElement.dataset.questionId;
     const correctAnswer = questionsJson[index].answer;
@@ -19,11 +17,14 @@ const generateResult = () => {
     if (userAnswer === correctAnswer) {
       points++;
     }
-
-    console.log({correctAnswer, userAnswer});
   }
 
-  result.innerHTML = `points: ${points} / ${questionsJson.length}`
+  if (checkedAnswers.length === questionsJson.length) {
+    const percentage = (points * questionsJson.length) / 100;
+    result.innerHTML = `points: ${points} / ${questionsJson.length} >> ${percentage}%`
+  } else {
+    result.innerHTML = `FALTAN PREGUNTAS POR RESPONDER, REVISE BIEN`
+  }  
 }
 
 btn.addEventListener('click', generateResult)
