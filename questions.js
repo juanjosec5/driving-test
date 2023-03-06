@@ -75,7 +75,7 @@ export default [
       "c": "Preventivas, reglamentarias e Informativas,",
       "d": "Ninguna de las anteriores."
     },
-    "answer": ""
+    "answer": "Preventivas, reglamentarias e Informativas,"
   },
   {
     "question": "9. QUE ES UNA CALZADA:",
@@ -85,16 +85,17 @@ export default [
       "c": "Son andenes.",
       "d": "Ninguna de\u00a0las\u00a0anteriores."
     },
-    "answer": ""
+    "answer": "Parte destinada a la circulaci\u00f3n de veh\u00edculos"
   },
   {
     "question": "10. CUANDO 2 VEHICULOS LLEGAN A UNA INTERSECCION AL MISMO TIEMPO DESDE VIAS DISTINTAS SIN NINGUNA SENALIZACION QUIEN TIENE LA PRELACION:",
     "options": {
-      "a": "El que aparece por la derecha El que se encuentra a mi izquierda.",
-      "b": "Los dos.",
-      "c": "Ninguno de los dos"
+      "a": "El que aparece por la derecha",
+      "b": "El que se encuentra a mi izquierda.",
+      "c": "Los dos.",
+      "d": "Ninguno de los dos"
     },
-    "answer": ""
+    "answer": "El que aparece por la derecha"
   },
   {
     "question": "11. LAS PLACAS DE LOS VEHICULOS SE DIVIDEN EN:",
@@ -103,7 +104,7 @@ export default [
       "b": "Privadas, particulares, reglamentarias, oficiales y remolques Particulares, publicas, oficiales, diplom\u00e1ticas y remolques",
       "c": "Ninguna de las anteriores."
     },
-    "answer": ""
+    "answer": "Privadas, particulares, reglamentarias, oficiales y remolques Particulares, publicas, oficiales, diplom\u00e1ticas y remolques"
   },
   {
     "question": "12. LA LICENCIA DE TRANSITO O TARJETA DE PROPIEDAD SIRVE PARA IDENTIFICAR A:",
@@ -113,7 +114,7 @@ export default [
       "c": "El veh\u00edculo y el propietario",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "El veh\u00edculo y el propietario"
   },
   {
     "question": "13. CUANDO UN POLICIA O UN GUARDA DE TRANSITO ESTA REGULANDO EL TRAFICO Y ESTE SE ENCUENTRA EN MEDIO DE LA INTERSECCION DE LADO O DE COSTADO SIGNIFICA QUE:",
@@ -123,7 +124,7 @@ export default [
       "c": "La via est\u00e1 cerrada.",
       "d": "Debo a acelerar."
     },
-    "answer": ""
+    "answer": "Autoriza avanzar a peatones y conductores"
   },
   {
     "question": "14. EN UNA VIA PENDIENTE QUIEN TIENE LA PRELACION:",
@@ -133,7 +134,7 @@ export default [
       "c": "El que vaya m\u00e1s cargado.",
       "d": "Los dos."
     },
-    "answer": ""
+    "answer": "El veh\u00edculo que sube."
   },
   {
     "question": "15. CUANDO LA LUZ DEL SEMAFORO ESTA EN ROJO Y SE ENCIENDE LA LUZ AMARILLA SIGNIFICA QUE:",
@@ -143,17 +144,17 @@ export default [
       "c": "Las dos anteriores.",
       "d": "Ninguna de las anteriores."
     },
-    "answer": ""
+    "answer": "Debe esperar la luz verde y arrancar."
   },
   {
     "question": "16. BERMA",
     "options": {
       "a": "Superficie lateral y parte de la v\u00eda publica destinada al tr\u00e1nsito de peatones.",
       "b": "Es el conjunto de v\u00edas existentes en determinada \u00e1rea o zona geogr\u00e1fica.",
-      "c": "Ninguna de las anteriores.",
-      "d": "I Son las fajas contiguas a la calzada, comprendidas entre sus orillas y las l\u00edneas de borde"
+      "c": "Son las fajas contiguas a la calzada, comprendidas entre sus orillas y las l\u00edneas de borde",
+      "d": "Ninguna de las anteriores."
     },
-    "answer": ""
+    "answer": "Son las fajas contiguas a la calzada, comprendidas entre sus orillas y las l\u00edneas de borde"
   },
   {
     "question": "17. LA FUNCION PRIMORDIAL DE UNA SE\u00d1AL REGLAMENTARIA ES:",
@@ -163,7 +164,7 @@ export default [
       "c": "Indicar a los usuarios de la via las limitaciones, prohibiciones o restricciones sobre su uso",
       "d": "Ninguna de las anteriores."
     },
-    "answer": ""
+    "answer": "Indicar a los usuarios de la via las limitaciones, prohibiciones o restricciones sobre su uso"
   },
   {
     "question": "18. UNA LINEA CONTINUA AMARILLA SOBRE LA CALZADA SIGNIFICA:",
@@ -173,7 +174,7 @@ export default [
       "c": "Debe disminuir la velocidad.",
       "d": "Via se doble sentido de circulaci\u00f3n indicando que est\u00e1 prohibido\u00a0adelantar"
     },
-    "answer": ""
+    "answer": "Via se doble sentido de circulaci\u00f3n indicando que est\u00e1 prohibido\u00a0adelantar"
   },
   {
     "question": "19. BAHIA:",
@@ -182,16 +183,16 @@ export default [
       "b": "Lugar destinado al parqueo moment\u00e1neo de un vehiculo en una via de alta circulaci\u00f3n",
       "c": "Destinada al tr\u00e1nsito de trenes de pasajeros o carga."
     },
-    "answer": ""
+    "answer": "Lugar destinado al parqueo moment\u00e1neo de un vehiculo en una via de alta circulaci\u00f3n"
   },
   {
     "question": "20. CUAL ES LA VELOCIDAD MAXIMA PERMITIDA EN ZONA URBANA:",
     "options": {
       "a": "40 km/h",
-      "b": "60 km/h.",
-      "c": "30 km/h."
+      "b": "60 km/h",
+      "c": "30 km/h"
     },
-    "answer": ""
+    "answer": "60 km/h"
   },
   {
     "question": "21. CUAL ES LA VELOCIDAD MAXIMA PERMITIDA EN ZONA RURAL:",
@@ -200,7 +201,7 @@ export default [
       "b": "60 km/h",
       "c": "90 km/h."
     },
-    "answer": ""
+    "answer": "80 km/h y en algunas carreteras 100 km/h"
   },
   {
     "question": "22. LA LICENCIA B1 CADA CUANTO DEBE RENOVARSE:",
@@ -210,7 +211,7 @@ export default [
       "c": "3 A\u00d1OS",
       "d": "12 A\u00d1OS"
     },
-    "answer": ""
+    "answer": "10 A\u00d1OS"
   },
   {
     "question": "23. LA LICENCIA C1 CADA CUANTO DEBE RENOVARSE:",
@@ -220,7 +221,7 @@ export default [
       "c": "3 A\u00d1OS",
       "d": "12 A\u00d1OS"
     },
-    "answer": ""
+    "answer": "3 A\u00d1OS"
   },
   {
     "question": "24. SON AUTORIDADES DE TR\u00c1NSITO:",
@@ -230,7 +231,7 @@ export default [
       "c": "La Policia Nacional en sus cuerpos especializados de polic\u00eda de tr\u00e1nsito urbano y polic\u00eda de carreteras, la Superintendencia General de Puertos y Transporte, las fuerzas militares.",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Todas las anteriores."
   },
   {
     "question": "25. El RUNT ES:",
@@ -239,7 +240,7 @@ export default [
       "b": "El Registro \u00danico Nacional de Tr\u00e1nsito",
       "c": "Sistema integrado de informaci\u00f3n sobre las multas y sanciones por infracciones de tr\u00e1nsito."
     },
-    "answer": ""
+    "answer": "El Registro \u00danico Nacional de Tr\u00e1nsito"
   },
   {
     "question": "26. ALCOHOLEMIA ES:",
@@ -248,7 +249,7 @@ export default [
       "b": "Cantidad de alcohol que tiene una persona en determinado momento en su sangre.",
       "c": "Examen o prueba de laboratorio, o por otro medio t\u00e9cnico que determina el nivel de alcohol et\u00edlico en la orina."
     },
-    "answer": ""
+    "answer": "Cantidad de alcohol que tiene una persona en determinado momento en su sangre."
   },
   {
     "question": "27. CALZADA ES:",
@@ -257,17 +258,17 @@ export default [
       "b": "Vla sin pavimentar destinada a la circulaci\u00f3n de veh\u00edculos.",
       "c": "Parte de la estructura de la v\u00eda, destinada al soporte lateral de la calzada para el tr\u00e1nsito de peatones, semovientes y ocasionalmente al estacionamiento de veh\u00edculos."
     },
-    "answer": ""
+    "answer": "Zona de la via destinada a la circulaci\u00f3n de veh\u00edculos."
   },
   {
     "question": "28. LICENCIA DE CONDUCCI\u00d3N ES:",
     "options": {
       "a": "Es una otorgaci\u00f3n por la entidad p\u00fablica o privada autorizada.",
-      "b": "Documento p\u00fablico de car\u00e1cter personal e intransferible expedido por autoridad competente, el cual autoriza a una persona para la conducci\u00f3n de veh\u00edculos con validez en todo el territorio nacional. /",
+      "b": "Documento p\u00fablico de car\u00e1cter personal e intransferible expedido por autoridad competente, el cual autoriza a una persona para la conducci\u00f3n de veh\u00edculos con validez en todo el territorio nacional.",
       "c": "El documento p\u00fablico que identifica un veh\u00edculo automotor y acredita su propiedad e identifica a su propietario y",
       "d": "Morza a dicho veh\u00edculo para circular por las v\u00edas p\u00fablicas."
     },
-    "answer": ""
+    "answer": "Documento p\u00fablico de car\u00e1cter personal e intransferible expedido por autoridad competente, el cual autoriza a una persona para la conducci\u00f3n de veh\u00edculos con validez en todo el territorio nacional."
   },
   {
     "question": "29. LA LICENCIA DE CONDUCCI\u00d3N HABILITARA:",
@@ -277,7 +278,7 @@ export default [
       "c": "Huella, domicilio y direcci\u00f3n; fecha de expedici\u00f3n y organismo que la expidi\u00f3.",
       "d": "Todas\u00a0les\u00a0anteriores"
     },
-    "answer": ""
+    "answer": "Todas\u00a0les\u00a0anteriores"
   },
   {
     "question": "30. PARA VEH\u00cdCULOS DE SERVICIO PARTICULAR LA EDAD M\u00cdNIMA ES:",
@@ -286,7 +287,7 @@ export default [
       "b": "16 a\u00f1os",
       "c": "No tiene limite de edad porque es un derecho adquirido"
     },
-    "answer": ""
+    "answer": "16 a\u00f1os"
   },
   {
     "question": "31. PARA OBTENER LA LICENCIA DE CONDUCCI\u00d3N POR PRIMERA VEZ, O LA RE CATEGORIZACI\u00d3N VIO REFRENDACION DE LA MISMA, SE DEBE:",
@@ -296,7 +297,7 @@ export default [
       "c": "La capacidad de coordinaci\u00f3n entre la aceleraci\u00f3n y el frenado, la coordinaci\u00f3n integral motriz de la persona, la discriminaci\u00f3n de colores y la l\u00ednea horizontal y vertical.",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Todas las anteriores."
   },
   {
     "question": "32. DENTRO DEL PER\u00cdMETRO URBANO, EL CRUCE DE PEATONES DEBE HACERSE POR LAS ZONAS AUTORIZADAS, COMO:",
@@ -305,7 +306,7 @@ export default [
       "b": "Los pasos peatonales y las bocacalles.",
       "c": "Todo lo anterior."
     },
-    "answer": ""
+    "answer": "Todo lo anterior."
   },
   {
     "question": "33. \u00bfCU\u00c1L ES EL PRIMER PASO A TENER EN CUENTA EN UN CAMBIO DE LLANTA SOBRE LA V\u00cdA?:",
@@ -314,7 +315,7 @@ export default [
       "b": "afloje las tuercas y luego levante el gato.",
       "c": "Busque una zona segura y coloque se\u00f1ales de prevenci\u00f3n a 20 metros en la ciudad y a 50 metros en carretera."
     },
-    "answer": ""
+    "answer": "Busque una zona segura y coloque se\u00f1ales de prevenci\u00f3n a 20 metros en la ciudad y a 50 metros en carretera."
   },
   {
     "question": "34. TODOS LOS VEHICULOS QUE CIRCULEN POR EL TERRITORIO NACIONAL DEBEN",
@@ -323,7 +324,7 @@ export default [
       "b": "Cumplir con los requisitos generales y las condiciones mec\u00e1nicas y t\u00e9cnicas que propendan a la seguridad, la higiene y comodidad dentro de los reglamentos correspondientes sobre peso y dimensiones.",
       "c": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Todas las anteriores."
   },
   {
     "question": "35. NING\u00daN VEH\u00cdCULO PODR\u00c1 TRANSITAR POR LAS V\u00cdAS DEL TERRITORIO NACIONAL SIN PORTAR",
@@ -332,7 +333,7 @@ export default [
       "b": "Equipo de carretera.",
       "c": "Defensas r\u00edgidas diferentes de las instaladas originalmente por el fabricante."
     },
-    "answer": ""
+    "answer": "Equipo de carretera."
   },
   {
     "question": "36. SOAT ES UN:",
@@ -341,17 +342,16 @@ export default [
       "b": "Seguro Obligatorio de Accidentes de Tr\u00e1nsito",
       "c": "Sistema Obligatorio de Asistencia T\u00e9cnica"
     },
-    "answer": ""
+    "answer": "Seguro Obligatorio de Accidentes de Tr\u00e1nsito"
   },
   {
-    "question": "37. PARA PODER TRANSITAR EN EL TERRITORIO NACIONAL TODOS LOS VEH\u00cdCULOS DEBEN ESTAR",
+    "question": "37. PARA PODER TRANSITAR EN EL TERRITORIO NACIONAL TODOS LOS VEH\u00cdCULOS DEBEN ESTAR AMPARADOS POR:",
     "options": {
-      "a": "AMPARADOS POR:",
-      "b": "Un seguro obligatorio vigente.",
-      "c": "Un sistema de alarma, en contacto con la central de riesgos.",
-      "d": "Dispositivo satelital de localizaci\u00f3n."
+      "a": "Un seguro obligatorio vigente.",
+      "b": "Un sistema de alarma, en contacto con la central de riesgos.",
+      "c": "Dispositivo satelital de localizaci\u00f3n."
     },
-    "answer": ""
+    "answer": "Un seguro obligatorio vigente."
   },
   {
     "question": "38. LAS PLACAS SE CLASIFICAN, EN RAZ\u00d3N DEL SERVICIO DEL VEH\u00cdCULO, ASI:",
@@ -360,7 +360,7 @@ export default [
       "b": "Particular, diplom\u00e1tico, Consular y de misiones especiales.",
       "c": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Todas las anteriores."
   },
   {
     "question": "39. LOS VEH\u00cdCULOS AUTOMOTORES LLEVAR\u00c1N:",
@@ -369,7 +369,7 @@ export default [
       "b": "Una en el extremo delantero y otra en el extremo trasero.",
       "c": "Todo lo anterior."
     },
-    "answer": ""
+    "answer": "Todo lo anterior."
   },
   {
     "question": "40. \u00bfCUANDO USTED ENTRA A UN T\u00daNEL CON QUE LUCES ENTRARA?",
@@ -378,7 +378,7 @@ export default [
       "b": "Con luces largas o Altas.",
       "c": "Con luces medias."
     },
-    "answer": ""
+    "answer": "Con luces cortas o Bajas."
   },
   {
     "question": "41. TODA PERSONA QUE TOME PARTE EN EL TR\u00c1NSITO COMO CONDUCTOR, PASAJERO O PEAT\u00d3N, DEBE:",
@@ -388,7 +388,7 @@ export default [
       "c": "Obedecer las indicaciones que les den las autoridades de tr\u00e1nsito.",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Todas las anteriores."
   },
   {
     "question": "42. EL TR\u00c1NSITO DE PEATONES POR LAS V\u00cdAS P\u00daBLICAS SE HAR\u00c1:",
@@ -397,7 +397,7 @@ export default [
       "b": "Por fuera de las zonas destinadas al tr\u00e1nsito de veh\u00edculos.",
       "c": "Por los separadores de v\u00edas"
     },
-    "answer": ""
+    "answer": "Por fuera de las zonas destinadas al tr\u00e1nsito de veh\u00edculos."
   },
   {
     "question": "43. LAS SE\u00d1ALES DE TR\u00c1NSITO SE CLASIFICAN EN:",
@@ -406,7 +406,7 @@ export default [
       "b": "Se\u00f1ales informativas, Se\u00f1ales\u00a0preventivas",
       "c": "Se\u00f1ales preventivas, se\u00f1ales reglamentarias, se\u00f1ales informativas, se\u00f1ales transitorias"
     },
-    "answer": ""
+    "answer": "Se\u00f1ales preventivas, se\u00f1ales reglamentarias, se\u00f1ales informativas, se\u00f1ales transitorias"
   },
   {
     "question": "44. DENTRO DEL PERIMETRO URBANO, LAS VIAS SE CLASIFICAN ASI:",
@@ -416,7 +416,7 @@ export default [
       "c": "Locales, privadas, ciclo rutas y peatonales.",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Todas las anteriores."
   },
   {
     "question": "45. POR RAZONES DE SEGURIDAD VIAL Y DE PROTECCION AL AMBIENTE, EL PROPIETARIO O TENEDOR DEL MEH\u00cdCULO DE PLACAS NACIONALES O EXTRANJERAS, QUE TRANSITE POR EL TERRITORIO NACIONAL, TENDR\u00c1 LA OBLIGACI\u00d3N:",
@@ -426,7 +426,7 @@ export default [
       "c": "De portar el seguro obligatorio de accidentes de tr\u00e1nsito vigente",
       "d": "Todo lo anterior"
     },
-    "answer": ""
+    "answer": "Todo lo anterior"
   },
   {
     "question": "46. \u00bfCADA CUANTO DEBO REVISAR LOS FLUIDOS DEL MOTOR, COMO ACEITE, NIVEL DEL AGUA O REFRIGERANTE, NIVEL DEL L\u00cdQUIDO HIDR\u00c1ULICO?",
@@ -435,7 +435,7 @@ export default [
       "b": "Cada que encienda el veh\u00edculo.",
       "c": "Una vez al dia, preferiblemente en la ma\u00f1ana antes de salir."
     },
-    "answer": ""
+    "answer": "Una vez al dia, preferiblemente en la ma\u00f1ana antes de salir."
   },
   {
     "question": "47. \u00bfCU\u00c1L ES LA TEMPERATURA NORMAL DE FUNCIONAMIENTO DE UN MOTOR DE COMBUSTI\u00d3N INTERNA?:",
@@ -445,7 +445,7 @@ export default [
       "c": "95-120 Grados cent\u00edgrados.",
       "d": "150-160 Grados cent\u00edgrados."
     },
-    "answer": ""
+    "answer": "95-120 Grados cent\u00edgrados."
   },
   {
     "question": "48. EN LAS CARRETERAS NACIONALES Y DEPARTAMENTALES LAS VELOCIDADES AUTORIZADAS PARA VEH\u00cdCULOS P\u00daBLICOS O PRIVADOS, SER\u00c1N DETERMINADAS POR:",
@@ -454,7 +454,7 @@ export default [
       "b": "Puertos y Transporte.",
       "c": "Por el Ministerio de Env\u00edas."
     },
-    "answer": ""
+    "answer": "El Ministerio de Transporte o la Gobernaci\u00f3n."
   },
   {
     "question": "49. \u00bfCADA CU\u00c1NTO SE DEBE HACER LA ALINEACI\u00d3N Y EL BALANCEO?",
@@ -464,7 +464,7 @@ export default [
       "c": "Cuando empiece a vibrar.",
       "d": "Cuando este tirando hacia los lados la direcci\u00f3n"
     },
-    "answer": ""
+    "answer": "cada 10.000 kil\u00f3metros recorrido."
   },
   {
     "question": "50. EN UNA BATER\u00cdA, \u00bfCU\u00c1NTOS VOLTIOS SE ALMACENAN?:",
@@ -473,7 +473,7 @@ export default [
       "b": "220 voltios.",
       "c": "12 voltios."
     },
-    "answer": ""
+    "answer": "12 voltios."
   },
   {
     "question": "51. \u00bfEN PROMEDIO CADA CUANTO DEBO CAMBIAR EL ACEITE DE MOTOR DEL VEH\u00cdCULO?",
@@ -483,7 +483,7 @@ export default [
       "c": "cada 5000 kil\u00f3metros recorrido.",
       "d": "Cuando el aceite se vuelva de color negro"
     },
-    "answer": ""
+    "answer": "cada 5000 kil\u00f3metros recorrido."
   },
   {
     "question": "52. \u00bfSE DICE QUE EL 75% DE LAS FALLAS MEC\u00c1NICAS DE UN VEH\u00cdCULO SON?",
@@ -493,7 +493,7 @@ export default [
       "c": "Fallas del sistema de suspensi\u00f3n.",
       "d": "Ninguna de las anteriores"
     },
-    "answer": ""
+    "answer": "Fallas del sistema El\u00e9ctrico."
   },
   {
     "question": "53. CUANDO USTED VA MANEJANDO A 50 KIL\u00d3METROS POR UNA HORA Y SE SUELTA UNA RUEDA",
@@ -504,7 +504,7 @@ export default [
       "d": "se lanza del veh\u00edculo.",
       "e": "Sostiene firmemente el volante con las dos manos, y se concentra en la via."
     },
-    "answer": ""
+    "answer": "Sostiene firmemente el volante con las dos manos, y se concentra en la via."
   },
   {
     "question": "54. \u00bfQU\u00c9 CANTIDAD DE PRESI\u00d3N DEBO APLICAR A LAS LLANTAS?",
@@ -513,7 +513,7 @@ export default [
       "b": "40 libras de presi\u00f3n.",
       "c": "Se verifica en el marco de la puerta para ver la presi\u00f3n dada por\u00a0el\u00a0Fabricante"
     },
-    "answer": ""
+    "answer": "Se verifica en el marco de la puerta para ver la presi\u00f3n dada por\u00a0el\u00a0Fabricante"
   },
   {
     "question": "55. LLA SENAL SP 01 SIGNIFICA?",
@@ -523,7 +523,7 @@ export default [
       "c": "Curva pronunciada a la derecha.",
       "d": "Curva peligrosa a la derecha."
     },
-    "answer": ""
+    "answer": "Curva peligrosa a la izquierda"
   },
   {
     "question": "56.\u00bfLA SE\u00d1AL SR 05 SIGNIFICA? a Curva pronunciada a la izquierda.",
@@ -532,7 +532,7 @@ export default [
       "b": "Giro a la izquierda solamente.",
       "c": "Giro a laderecha solamente"
     },
-    "answer": ""
+    "answer": "Giro a la izquierda solamente."
   },
   {
     "question": "57. \u00bfLA SE\u00d1AL SI 16 SIGNIFICA?",
@@ -542,7 +542,7 @@ export default [
       "c": "Intersecci\u00f3n de v\u00edas.",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Primeros auxilios."
   },
   {
     "question": "58. \u00bfLA SE\u00d1AL SR 02 SIGNIFICA?",
@@ -552,7 +552,7 @@ export default [
       "c": "Ceda el paso",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Ceda el paso"
   },
   {
     "question": "59. \u00bfLA SE\u00d1AL SR 36 SIGNIFICA?",
@@ -562,7 +562,7 @@ export default [
       "c": "Curva peligrosa a la derecha.",
       "d": "Reten."
     },
-    "answer": ""
+    "answer": "Reten."
   },
   {
     "question": "60. \u00bfLA SE\u00d1AL SI 14 SIGNIFICA?",
@@ -572,7 +572,7 @@ export default [
       "c": "Aeropuerto.",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Aeropuerto."
   },
   {
     "question": "61. \u00bfLA SE\u00d1AL SP 11SIGNIFICA?",
@@ -582,7 +582,7 @@ export default [
       "c": "Siga de frente.",
       "d": "Todas las anteriores."
     },
-    "answer": ""
+    "answer": "Intersecci\u00f3n."
   },
   {
     "question": "62. \u00bfLA SE\u00d1AL SP 37 SIGNIFICA?",
@@ -592,7 +592,7 @@ export default [
       "c": "Iglesia.",
       "d": "Ninguna de las anteriores."
     },
-    "answer": ""
+    "answer": "T\u00fanel."
   },
   {
     "question": "63. \u00bfLA SE\u00d1AL SP 56 SIGNIFICA?",
@@ -602,7 +602,7 @@ export default [
       "c": "Siga de frente.",
       "d": "Ninguna de las anteriores."
     },
-    "answer": ""
+    "answer": "Terminaci\u00f3n de v\u00eda con separador dos sentidos."
   },
   {
     "question": "64. \u00bfLA SE\u00d1AL SR 35 SIGNIFICA?",
@@ -612,7 +612,7 @@ export default [
       "c": "Cruz roia.",
       "d": "Paso uno a uno."
     },
-    "answer": ""
+    "answer": "Circulaci\u00f3n con luces bajas."
   },
   {
     "question": "65. \u00bfLA SE\u00d1AL SR 30 SIGNIFICA?",
@@ -622,7 +622,7 @@ export default [
       "c": "Ciclo via.",
       "d": "Velocidad m\u00e1xima."
     },
-    "answer": ""
+    "answer": "Velocidad m\u00e1xima."
   },
   {
     "question": "66. \u00bfLA SE\u00d1AL SI 30 SIGNIFICA?",
@@ -632,6 +632,6 @@ export default [
       "c": "Sitio de parqueo.",
       "d": "Todas\u00a0las\u00a0anteriores"
     },
-    "answer": ""
+    "answer": "Transporte masivo."
   }
 ]

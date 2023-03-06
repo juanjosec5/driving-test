@@ -41,118 +41,119 @@ Va a disminuir la velocidad
 8. LAS SEÑALES DE TRANSITO O DE PEDESTAL SE CLASIFICAN EN:
 Informativas, preventivas y confirmativas.
 Informativas, reglamentarias y accidentales.
-Preventivas, reglamentarias e Informativas,
+Preventivas, reglamentarias e Informativas,*
 Ninguna de las anteriores.
 
 9. QUE ES UNA CALZADA:
-Parte destinada a la circulación de vehículos
+Parte destinada a la circulación de vehículos*
 Franja que separa e independiza las calzadas.
 Son andenes.
 Ninguna de las anteriores.
 
 10. CUANDO 2 VEHICULOS LLEGAN A UNA INTERSECCION AL MISMO TIEMPO DESDE VIAS DISTINTAS SIN NINGUNA SENALIZACION QUIEN TIENE LA PRELACION:
-El que aparece por la derecha El que se encuentra a mi izquierda.
+El que aparece por la derecha*
+El que se encuentra a mi izquierda.
 Los dos.
 Ninguno de los dos
 
 11. LAS PLACAS DE LOS VEHICULOS SE DIVIDEN EN:
 Particulares, privadas, oficiales y remolques.
-Privadas, particulares, reglamentarias, oficiales y remolques Particulares, publicas, oficiales, diplomáticas y remolques
+Privadas, particulares, reglamentarias, oficiales y remolques Particulares, publicas, oficiales, diplomáticas y remolques*
 Ninguna de las anteriores.
 
 12. LA LICENCIA DE TRANSITO O TARJETA DE PROPIEDAD SIRVE PARA IDENTIFICAR A:
 Conductor.
 Carga que lleva el vehículo.
-El vehículo y el propietario
+El vehículo y el propietario*
 Todas las anteriores.
 
 13. CUANDO UN POLICIA O UN GUARDA DE TRANSITO ESTA REGULANDO EL TRAFICO Y ESTE SE ENCUENTRA EN MEDIO DE LA INTERSECCION DE LADO O DE COSTADO SIGNIFICA QUE:
-Autoriza avanzar a peatones y conductores
+Autoriza avanzar a peatones y conductores*
 La circulación es restringida a menos carriles.
 La via está cerrada.
 Debo a acelerar.
 
 14. EN UNA VIA PENDIENTE QUIEN TIENE LA PRELACION:
-El vehículo que sube.
+El vehículo que sube.*
 El vehículo que baja.
 El que vaya más cargado.
 Los dos.
 
 15. CUANDO LA LUZ DEL SEMAFORO ESTA EN ROJO Y SE ENCIENDE LA LUZ AMARILLA SIGNIFICA QUE:
 Debe arrancar inmediatamente.
-Debe esperar la luz verde y arrancar.
+Debe esperar la luz verde y arrancar.*
 Las dos anteriores.
 Ninguna de las anteriores.
 
 16. BERMA
 Superficie lateral y parte de la vía publica destinada al tránsito de peatones.
 Es el conjunto de vías existentes en determinada área o zona geográfica.
+Son las fajas contiguas a la calzada, comprendidas entre sus orillas y las líneas de borde*
 Ninguna de las anteriores.
-I Son las fajas contiguas a la calzada, comprendidas entre sus orillas y las líneas de borde
 
 17. LA FUNCION PRIMORDIAL DE UNA SEÑAL REGLAMENTARIA ES:
 Advertir la existencia de un peligro en la via.
 Informar la existencia de sitios de abastecimiento en la via.
-Indicar a los usuarios de la via las limitaciones, prohibiciones o restricciones sobre su uso
+Indicar a los usuarios de la via las limitaciones, prohibiciones o restricciones sobre su uso*
 Ninguna de las anteriores.
 
 18. UNA LINEA CONTINUA AMARILLA SOBRE LA CALZADA SIGNIFICA:
 Un solo sentido de circulación.
 Vía de doble sentido de circulación indicando que puede adelantar.
 Debe disminuir la velocidad.
-Via se doble sentido de circulación indicando que está prohibido adelantar
+Via se doble sentido de circulación indicando que está prohibido adelantar*
 
 19. BAHIA:
 Parte destinada a la circulación de vehículos.
-Lugar destinado al parqueo momentáneo de un vehiculo en una via de alta circulación
+Lugar destinado al parqueo momentáneo de un vehiculo en una via de alta circulación*
 Destinada al tránsito de trenes de pasajeros o carga.
 
 20. CUAL ES LA VELOCIDAD MAXIMA PERMITIDA EN ZONA URBANA:
 40 km/h
-60 km/h.
-30 km/h.
+60 km/h*
+30 km/h
 
 21. CUAL ES LA VELOCIDAD MAXIMA PERMITIDA EN ZONA RURAL:
-80 km/h y en algunas carreteras 100 km/h
+80 km/h y en algunas carreteras 100 km/h*
 60 km/h
 90 km/h.
 
 22. LA LICENCIA B1 CADA CUANTO DEBE RENOVARSE:
 4 AÑOS
-10 AÑOS
+10 AÑOS*
 3 AÑOS
 12 AÑOS
 
 23. LA LICENCIA C1 CADA CUANTO DEBE RENOVARSE:
 4 AÑOS
 10 AÑOS
-3 AÑOS
+3 AÑOS*
 12 AÑOS
 
 24. SON AUTORIDADES DE TRÁNSITO:
 Los Gobernadores y los Alcaldes, los organismos de tránsito de carácter departamental, municipal o Distrital, los
 Inspectores de Policía, los Inspectores de Tránsito, Corregidores.
 La Policia Nacional en sus cuerpos especializados de policía de tránsito urbano y policía de carreteras, la Superintendencia General de Puertos y Transporte, las fuerzas militares.
-Todas las anteriores.
+Todas las anteriores.*
 
 25. El RUNT ES:
 El Registro Único Tributario
-El Registro Único Nacional de Tránsito
+El Registro Único Nacional de Tránsito*
 Sistema integrado de información sobre las multas y sanciones por infracciones de tránsito.
 
 26. ALCOHOLEMIA ES:
 Examen o prueba de laboratorio, o por medio técnico que determina el nivel de alcohol etílico en la sangre.
-Cantidad de alcohol que tiene una persona en determinado momento en su sangre.
+Cantidad de alcohol que tiene una persona en determinado momento en su sangre.*
 Examen o prueba de laboratorio, o por otro medio técnico que determina el nivel de alcohol etílico en la orina.
 
 27. CALZADA ES:
-Zona de la via destinada a la circulación de vehículos.
+Zona de la via destinada a la circulación de vehículos.*
 Vla sin pavimentar destinada a la circulación de vehículos.
 Parte de la estructura de la vía, destinada al soporte lateral de la calzada para el tránsito de peatones, semovientes y ocasionalmente al estacionamiento de vehículos.
 
 28. LICENCIA DE CONDUCCIÓN ES:
 Es una otorgación por la entidad pública o privada autorizada.
-Documento público de carácter personal e intransferible expedido por autoridad competente, el cual autoriza a una persona para la conducción de vehículos con validez en todo el territorio nacional. /
+Documento público de carácter personal e intransferible expedido por autoridad competente, el cual autoriza a una persona para la conducción de vehículos con validez en todo el territorio nacional.*
 El documento público que identifica un vehículo automotor y acredita su propiedad e identifica a su propietario y
 Morza a dicho vehículo para circular por las vías públicas.
 
@@ -160,62 +161,61 @@ Morza a dicho vehículo para circular por las vías públicas.
 A su titular para manejar vehículos automotores de acuerdo con las categorías que para cada modalidad establezca el reglamento
 A Al organismo de tránsito confrontar la identidad del respectivo titular de conformidad con las normas de la ley vigentes sobre la materia
 Huella, domicilio y dirección; fecha de expedición y organismo que la expidió.
-Todas les anteriores
+Todas les anteriores*
 
 30. PARA VEHÍCULOS DE SERVICIO PARTICULAR LA EDAD MÍNIMA ES:
 18 años
-16 años
+16 años*
 No tiene limite de edad porque es un derecho adquirido
 
 31. PARA OBTENER LA LICENCIA DE CONDUCCIÓN POR PRIMERA VEZ, O LA RE CATEGORIZACIÓN VIO REFRENDACION DE LA MISMA, SE DEBE:
 Demostrar ante las autoridades de tránsito la aptitud física, mental y de coordinación motriz 
 Las capacidades de visión y orientación auditiva, la agudeza visual y campimetría, los tiempos de reacción y recuperación al encandilamiento
 La capacidad de coordinación entre la aceleración y el frenado, la coordinación integral motriz de la persona, la discriminación de colores y la línea horizontal y vertical.
-Todas las anteriores.
+Todas las anteriores.*
 
 32. DENTRO DEL PERÍMETRO URBANO, EL CRUCE DE PEATONES DEBE HACERSE POR LAS ZONAS AUTORIZADAS, COMO:
 Los puentes peatonales.
 Los pasos peatonales y las bocacalles.
-Todo lo anterior.
+Todo lo anterior.*
 
 33. ¿CUÁL ES EL PRIMER PASO A TENER EN CUENTA EN UN CAMBIO DE LLANTA SOBRE LA VÍA?:
 coloque los tacos para bloquear las llantas
 afloje las tuercas y luego levante el gato.
-Busque una zona segura y coloque señales de prevención a 20 metros en la ciudad y a 50 metros en carretera.
+Busque una zona segura y coloque señales de prevención a 20 metros en la ciudad y a 50 metros en carretera.*
 
 34. TODOS LOS VEHICULOS QUE CIRCULEN POR EL TERRITORIO NACIONAL DEBEN
 someterse a las normas que sobre tránsito terrestre que determine el Código Nacional de Tránsito.
 Cumplir con los requisitos generales y las condiciones mecánicas y técnicas que propendan a la seguridad, la higiene y comodidad dentro de los reglamentos correspondientes sobre peso y dimensiones.
-Todas las anteriores.
+Todas las anteriores.*
 
 35. NINGÚN VEHÍCULO PODRÁ TRANSITAR POR LAS VÍAS DEL TERRITORIO NACIONAL SIN PORTAR
 Una manila para remolcar a otro vehículo.
-Equipo de carretera.
+Equipo de carretera.*
 Defensas rígidas diferentes de las instaladas originalmente por el fabricante.
 
 36. SOAT ES UN:
 Sistema Operacional de Accidentes de Tránsito.
-Seguro Obligatorio de Accidentes de Tránsito
+Seguro Obligatorio de Accidentes de Tránsito*
 Sistema Obligatorio de Asistencia Técnica
 
-37. PARA PODER TRANSITAR EN EL TERRITORIO NACIONAL TODOS LOS VEHÍCULOS DEBEN ESTAR
-AMPARADOS POR:
-Un seguro obligatorio vigente.
+37. PARA PODER TRANSITAR EN EL TERRITORIO NACIONAL TODOS LOS VEHÍCULOS DEBEN ESTAR AMPARADOS POR:
+Un seguro obligatorio vigente.*
 Un sistema de alarma, en contacto con la central de riesgos.
 Dispositivo satelital de localización.
 
 38. LAS PLACAS SE CLASIFICAN, EN RAZÓN DEL SERVICIO DEL VEHÍCULO, ASI:
 De servicio oficial. público
 Particular, diplomático, Consular y de misiones especiales.
-Todas las anteriores.
+Todas las anteriores.*
 
 39. LOS VEHÍCULOS AUTOMOTORES LLEVARÁN:
 Dos (2) placas iguales.
 Una en el extremo delantero y otra en el extremo trasero.
-Todo lo anterior.
+Todo lo anterior.*
 
 40. ¿CUANDO USTED ENTRA A UN TÚNEL CON QUE LUCES ENTRARA?
-Con luces cortas o Bajas.
+Con luces cortas o Bajas.*
 Con luces largas o Altas.
 Con luces medias.
 
@@ -223,66 +223,66 @@ Con luces medias.
 Comportarse en forma que no obstaculice, perjudique o ponga en
 Conocer y cumplir las normas y señales de tránsito que le sean aplicables.
 Obedecer las indicaciones que les den las autoridades de tránsito.
-Todas las anteriores.
+Todas las anteriores.*
 
 42. EL TRÁNSITO DE PEATONES POR LAS VÍAS PÚBLICAS SE HARÁ:
 Por dentro de las zonas destinadas al tránsito de vehículos
-Por fuera de las zonas destinadas al tránsito de vehículos.
+Por fuera de las zonas destinadas al tránsito de vehículos.*
 Por los separadores de vías
 
 43. LAS SEÑALES DE TRÁNSITO SE CLASIFICAN EN:
 Seriales reglamentarias, Señales transitorias.
 Señales informativas, Señales preventivas
-Señales preventivas, señales reglamentarias, señales informativas, señales transitorias
+Señales preventivas, señales reglamentarias, señales informativas, señales transitorias*
 
 44. DENTRO DEL PERIMETRO URBANO, LAS VIAS SE CLASIFICAN ASI:
 Via de metro paretro via, via troncal, ferreas y Autopistas.
 Arenas, principales, gocundarias, colecioras y ortinaras.
 Locales, privadas, ciclo rutas y peatonales.
-Todas las anteriores.
+Todas las anteriores.*
 
 45. POR RAZONES DE SEGURIDAD VIAL Y DE PROTECCION AL AMBIENTE, EL PROPIETARIO O TENEDOR DEL MEHÍCULO DE PLACAS NACIONALES O EXTRANJERAS, QUE TRANSITE POR EL TERRITORIO NACIONAL, TENDRÁ LA OBLIGACIÓN:
 De portar equipo de seguridad.
 De mantenerlo en optimas condiciones mecánicas y de seguridad.
 De portar el seguro obligatorio de accidentes de tránsito vigente
-Todo lo anterior
+Todo lo anterior*
 
 46. ¿CADA CUANTO DEBO REVISAR LOS FLUIDOS DEL MOTOR, COMO ACEITE, NIVEL DEL AGUA O REFRIGERANTE, NIVEL DEL LÍQUIDO HIDRÁULICO?
 Cada 15 días.
 Cada que encienda el vehículo.
-Una vez al dia, preferiblemente en la mañana antes de salir.
+Una vez al dia, preferiblemente en la mañana antes de salir.*
 
 47. ¿CUÁL ES LA TEMPERATURA NORMAL DE FUNCIONAMIENTO DE UN MOTOR DE COMBUSTIÓN INTERNA?:
 900-1000 Grados centígrados
 75-85 Grados centígrados.
-95-120 Grados centígrados.
+95-120 Grados centígrados.*
 150-160 Grados centígrados.
 
 48. EN LAS CARRETERAS NACIONALES Y DEPARTAMENTALES LAS VELOCIDADES AUTORIZADAS PARA VEHÍCULOS PÚBLICOS O PRIVADOS, SERÁN DETERMINADAS POR:
-El Ministerio de Transporte o la Gobernación.
+El Ministerio de Transporte o la Gobernación.*
 Puertos y Transporte.
 Por el Ministerio de Envías.
 
 49. ¿CADA CUÁNTO SE DEBE HACER LA ALINEACIÓN Y EL BALANCEO?
 cada 20.000 kilómetros recorrido.
-cada 10.000 kilómetros recorrido.
+cada 10.000 kilómetros recorrido.*
 Cuando empiece a vibrar.
 Cuando este tirando hacia los lados la dirección
 
 50. EN UNA BATERÍA, ¿CUÁNTOS VOLTIOS SE ALMACENAN?:
 240 voltios.
 220 voltios.
-12 voltios.
+12 voltios.*
 
 51. ¿EN PROMEDIO CADA CUANTO DEBO CAMBIAR EL ACEITE DE MOTOR DEL VEHÍCULO?
 Cada año.
 cada 15 días.
-cada 5000 kilómetros recorrido.
+cada 5000 kilómetros recorrido.*
 Cuando el aceite se vuelva de color negro
 
 52. ¿SE DICE QUE EL 75% DE LAS FALLAS MECÁNICAS DE UN VEHÍCULO SON?
 Fallas del sistema de Lubricación.
-Fallas del sistema Eléctrico.
+Fallas del sistema Eléctrico.*
 Fallas del sistema de suspensión.
 Ninguna de las anteriores
 
@@ -291,26 +291,26 @@ DELANTERA, ¿QUÉ SE DEBE HACER?
 Se hecha la bendición
 cierra los ojos
 se lanza del vehículo.
-Sostiene firmemente el volante con las dos manos, y se concentra en la via.
+Sostiene firmemente el volante con las dos manos, y se concentra en la via.*
 
 54. ¿QUÉ CANTIDAD DE PRESIÓN DEBO APLICAR A LAS LLANTAS?
 30 libras de presión.
 40 libras de presión.
-Se verifica en el marco de la puerta para ver la presión dada por el Fabricante
+Se verifica en el marco de la puerta para ver la presión dada por el Fabricante*
 
 55. LLA SENAL SP 01 SIGNIFICA?
 Curva pronunciada a la izquierda
-Curva peligrosa a la izquierda
+Curva peligrosa a la izquierda*
 Curva pronunciada a la derecha.
 Curva peligrosa a la derecha.
 
 56.¿LA SEÑAL SR 05 SIGNIFICA? a Curva pronunciada a la izquierda.
 Curva peligrosa a la izquierda.
-Giro a la izquierda solamente.
+Giro a la izquierda solamente.*
 Giro a laderecha solamente
 
 57. ¿LA SEÑAL SI 16 SIGNIFICA?
-Primeros auxilios.
+Primeros auxilios.*
 Bifurcación en T.
 Intersección de vías.
 Todas las anteriores.
@@ -318,41 +318,41 @@ Todas las anteriores.
 58. ¿LA SEÑAL SR 02 SIGNIFICA?
 Flecha direccional.
 No pase.
-Ceda el paso
+Ceda el paso*
 Todas las anteriores.
 
 59. ¿LA SEÑAL SR 36 SIGNIFICA?
 Desvió.
 hospital cerca.
 Curva peligrosa a la derecha.
-Reten.
+Reten.*
 
 60. ¿LA SEÑAL SI 14 SIGNIFICA?
 Presencia de aviones.
 Zona militar.
-Aeropuerto.
+Aeropuerto.*
 Todas las anteriores.
 
 61. ¿LA SEÑAL SP 11SIGNIFICA?
-Intersección.
+Intersección.*
 Bifurcación en T.
 Siga de frente.
 Todas las anteriores.
 
 62. ¿LA SEÑAL SP 37 SIGNIFICA?
-Túnel.
+Túnel.*
 Hospital cerca.
 Iglesia.
 Ninguna de las anteriores.
 
 63. ¿LA SEÑAL SP 56 SIGNIFICA?
-Terminación de vía con separador dos sentidos.
+Terminación de vía con separador dos sentidos.*
 Bifurcación en Y.
 Siga de frente.
 Ninguna de las anteriores.
 
 64. ¿LA SEÑAL SR 35 SIGNIFICA?
-Circulación con luces bajas.
+Circulación con luces bajas.*
 Desvió.
 Cruz roia.
 Paso uno a uno.
@@ -361,10 +361,10 @@ Paso uno a uno.
 Ancho máximo permitido.
 Altura máxima permitida
 Ciclo via.
-Velocidad máxima.
+Velocidad máxima.*
 
 66. ¿LA SEÑAL SI 30 SIGNIFICA?
-Transporte masivo.
+Transporte masivo.*
 Transbordador.
 Sitio de parqueo.
 Todas las anteriores
